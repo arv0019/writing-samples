@@ -1,0 +1,34 @@
+body {
+  background-color: lightgray;
+}
+
+
+h1 {
+  font-family: Roboto, Arial, Helvetica;
+  color: navy;
+}
+
+h2 {
+  font-family: Roboto, Arial, Helvetica;
+  color: navy;
+}
+
+h3 {
+  font-family: Roboto, Arial, Helvetica;
+  color: navy;
+}
+
+p {
+  font-family: Roboto, Arial, Helvetica;
+  color: black;
+}
+
+ul {
+  font-family: Roboto, Arial, Helvetica;
+  color: black;
+  list-style-type: square;
+}
+
+a {
+  font-family: Roboto, Arial, Helvetica;
+}
